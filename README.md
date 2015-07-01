@@ -8,5 +8,5 @@ Want to talk to him? Open an ~~Issue~~.
 
 **UPDATE** Ed can't handle fame. You can either:
 
-a) add a question to the `questions` folders as a Pull Request (we'll merge anything in there)
-b) tweet [@_ewp](https://twitter.com/_ewp) with the hashtag [#DevsDoDesignAMA](https://twitter.com/hashtag/DevsDoDesignAMA)
+1. add a question to the `questions` folders as a Pull Request (we'll merge anything in there)
+2. tweet [@_ewp](https://twitter.com/_ewp) with the hashtag [#DevsDoDesignAMA](https://twitter.com/hashtag/DevsDoDesignAMA)
