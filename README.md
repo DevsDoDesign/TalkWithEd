@@ -1,6 +1,6 @@
 # TalkWithEd
 
-Ed hates email.
+Ed hates ~~email~~ people.
 
 ![](https://i.imgur.com/4ds1qzZ.png)
 
